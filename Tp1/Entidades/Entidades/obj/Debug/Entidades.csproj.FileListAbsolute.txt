@@ -1,0 +1,7 @@
+C:\Users\Administrador\Desktop\Facu\Entidades\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\Administrador\Desktop\Facu\Entidades\Entidades\bin\Debug\Entidades.exe
+C:\Users\Administrador\Desktop\Facu\Entidades\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Desktop\Facu\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Facu\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Facu\Entidades\Entidades\obj\Debug\Entidades.exe
+C:\Users\Administrador\Desktop\Facu\Entidades\Entidades\obj\Debug\Entidades.pdb

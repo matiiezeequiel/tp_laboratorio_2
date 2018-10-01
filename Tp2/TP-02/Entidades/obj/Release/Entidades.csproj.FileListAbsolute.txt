@@ -1,0 +1,12 @@
+C:\Users\Administrador\Downloads\TP-02-Cascara\TP-02\Entidades\bin\Release\Entidades.dll
+C:\Users\Administrador\Downloads\TP-02-Cascara\TP-02\Entidades\bin\Release\Entidades.pdb
+C:\Users\Administrador\Downloads\TP-02-Cascara\TP-02\Entidades\obj\Release\Entidades.csprojAssemblyReference.cache
+C:\Users\Administrador\Downloads\TP-02-Cascara\TP-02\Entidades\obj\Release\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Downloads\TP-02-Cascara\TP-02\Entidades\obj\Release\Entidades.dll
+C:\Users\Administrador\Downloads\TP-02-Cascara\TP-02\Entidades\obj\Release\Entidades.pdb
+C:\Users\Administrador\Desktop\tp_laboratorio_2\Tp2\TP-02\Entidades\bin\Release\Entidades.dll
+C:\Users\Administrador\Desktop\tp_laboratorio_2\Tp2\TP-02\Entidades\bin\Release\Entidades.pdb
+C:\Users\Administrador\Desktop\tp_laboratorio_2\Tp2\TP-02\Entidades\obj\Release\Entidades.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\tp_laboratorio_2\Tp2\TP-02\Entidades\obj\Release\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\tp_laboratorio_2\Tp2\TP-02\Entidades\obj\Release\Entidades.dll
+C:\Users\Administrador\Desktop\tp_laboratorio_2\Tp2\TP-02\Entidades\obj\Release\Entidades.pdb

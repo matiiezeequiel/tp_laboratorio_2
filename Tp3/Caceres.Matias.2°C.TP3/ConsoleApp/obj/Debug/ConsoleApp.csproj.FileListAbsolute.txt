@@ -1,0 +1,32 @@
+C:\Users\matias.caceres\Desktop\Mati\tp3\Caceres.Matias.2°C.TP3\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\matias.caceres\Desktop\Mati\tp3\Caceres.Matias.2°C.TP3\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\matias.caceres\Desktop\Mati\tp3\Caceres.Matias.2°C.TP3\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\matias.caceres\Desktop\Mati\tp3\Caceres.Matias.2°C.TP3\ConsoleApp\bin\Debug\Archivos.dll
+C:\Users\matias.caceres\Desktop\Mati\tp3\Caceres.Matias.2°C.TP3\ConsoleApp\bin\Debug\Clases Abstractas.dll
+C:\Users\matias.caceres\Desktop\Mati\tp3\Caceres.Matias.2°C.TP3\ConsoleApp\bin\Debug\Clases Instanciables.dll
+C:\Users\matias.caceres\Desktop\Mati\tp3\Caceres.Matias.2°C.TP3\ConsoleApp\bin\Debug\Excepciones.dll
+C:\Users\matias.caceres\Desktop\Mati\tp3\Caceres.Matias.2°C.TP3\ConsoleApp\bin\Debug\Archivos.pdb
+C:\Users\matias.caceres\Desktop\Mati\tp3\Caceres.Matias.2°C.TP3\ConsoleApp\bin\Debug\Clases Abstractas.pdb
+C:\Users\matias.caceres\Desktop\Mati\tp3\Caceres.Matias.2°C.TP3\ConsoleApp\bin\Debug\Clases Instanciables.pdb
+C:\Users\matias.caceres\Desktop\Mati\tp3\Caceres.Matias.2°C.TP3\ConsoleApp\bin\Debug\Excepciones.pdb
+C:\Users\matias.caceres\Desktop\Mati\tp3\Caceres.Matias.2°C.TP3\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\matias.caceres\Desktop\Mati\tp3\Caceres.Matias.2°C.TP3\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\matias.caceres\Desktop\Mati\tp3\Caceres.Matias.2°C.TP3\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Users\matias.caceres\Desktop\Mati\tp3\Caceres.Matias.2°C.TP3\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\matias.caceres\Desktop\Mati\tp3\Caceres.Matias.2°C.TP3\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\carlo\Desktop\Mati\Mati\tp3\Caceres.Matias.2°C.TP3\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\carlo\Desktop\Mati\Mati\tp3\Caceres.Matias.2°C.TP3\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\carlo\Desktop\Mati\Mati\tp3\Caceres.Matias.2°C.TP3\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\carlo\Desktop\Mati\Mati\tp3\Caceres.Matias.2°C.TP3\ConsoleApp\bin\Debug\Archivos.dll
+C:\Users\carlo\Desktop\Mati\Mati\tp3\Caceres.Matias.2°C.TP3\ConsoleApp\bin\Debug\Clases Abstractas.dll
+C:\Users\carlo\Desktop\Mati\Mati\tp3\Caceres.Matias.2°C.TP3\ConsoleApp\bin\Debug\Clases Instanciables.dll
+C:\Users\carlo\Desktop\Mati\Mati\tp3\Caceres.Matias.2°C.TP3\ConsoleApp\bin\Debug\Excepciones.dll
+C:\Users\carlo\Desktop\Mati\Mati\tp3\Caceres.Matias.2°C.TP3\ConsoleApp\bin\Debug\Archivos.pdb
+C:\Users\carlo\Desktop\Mati\Mati\tp3\Caceres.Matias.2°C.TP3\ConsoleApp\bin\Debug\Clases Abstractas.pdb
+C:\Users\carlo\Desktop\Mati\Mati\tp3\Caceres.Matias.2°C.TP3\ConsoleApp\bin\Debug\Clases Instanciables.pdb
+C:\Users\carlo\Desktop\Mati\Mati\tp3\Caceres.Matias.2°C.TP3\ConsoleApp\bin\Debug\Excepciones.pdb
+C:\Users\carlo\Desktop\Mati\Mati\tp3\Caceres.Matias.2°C.TP3\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\carlo\Desktop\Mati\Mati\tp3\Caceres.Matias.2°C.TP3\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Mati\Mati\tp3\Caceres.Matias.2°C.TP3\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Users\carlo\Desktop\Mati\Mati\tp3\Caceres.Matias.2°C.TP3\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\carlo\Desktop\Mati\Mati\tp3\Caceres.Matias.2°C.TP3\ConsoleApp\obj\Debug\ConsoleApp.pdb

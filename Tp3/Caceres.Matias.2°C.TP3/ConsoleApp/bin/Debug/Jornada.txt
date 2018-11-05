@@ -1,0 +1,65 @@
+﻿Clase: Programacion
+Legajo: 1
+Nombre y apellido: Juan Lopez
+Nacionalidad: Argentino
+DNI: 0
+CLASES DEL DÍA
+Laboratorio
+Legislacion
+
+Legajo: 1
+Nombre y apellido: Juan Lopez
+Nacionalidad: Argentino
+DNI: 0
+TOMA CLASE DE Programacion
+Estado de cuenta: Becado
+
+
+Clase: Programacion
+Legajo: 1
+Nombre y apellido: Juan Lopez
+Nacionalidad: Argentino
+DNI: 12234456
+CLASES DEL DÍA
+Legislacion
+Legislacion
+
+Legajo: 1
+Nombre y apellido: Juan Lopez
+Nacionalidad: Argentino
+DNI: 12234456
+TOMA CLASE DE Programacion
+Estado de cuenta: Becado
+
+Legajo: 5
+Nombre y apellido: Carlos Gonzalez
+Nacionalidad: Argentino
+DNI: 12236456
+TOMA CLASE DE Programacion
+Estado de cuenta: AlDia
+
+
+Clase: Programacion
+Legajo: 1
+Nombre y apellido: Juan Lopez
+Nacionalidad: Argentino
+DNI: 12234456
+CLASES DEL DÍA
+Programacion
+Legislacion
+
+Legajo: 1
+Nombre y apellido: Juan Lopez
+Nacionalidad: Argentino
+DNI: 12234456
+TOMA CLASE DE Programacion
+Estado de cuenta: Becado
+
+Legajo: 5
+Nombre y apellido: Carlos Gonzalez
+Nacionalidad: Argentino
+DNI: 12236456
+TOMA CLASE DE Programacion
+Estado de cuenta: AlDia
+
+

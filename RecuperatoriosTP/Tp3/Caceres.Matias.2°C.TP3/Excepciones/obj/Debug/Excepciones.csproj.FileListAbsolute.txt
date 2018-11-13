@@ -1,0 +1,12 @@
+C:\Users\matias.caceres\Desktop\Mati\tp3\Caceres.Matias.2°C.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\matias.caceres\Desktop\Mati\tp3\Caceres.Matias.2°C.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\matias.caceres\Desktop\Mati\tp3\Caceres.Matias.2°C.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\matias.caceres\Desktop\Mati\tp3\Caceres.Matias.2°C.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\matias.caceres\Desktop\Mati\tp3\Caceres.Matias.2°C.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\matias.caceres\Desktop\Mati\tp3\Caceres.Matias.2°C.TP3\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\carlo\Desktop\Mati\Mati\tp3\Caceres.Matias.2°C.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\carlo\Desktop\Mati\Mati\tp3\Caceres.Matias.2°C.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\carlo\Desktop\Mati\Mati\tp3\Caceres.Matias.2°C.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\carlo\Desktop\Mati\Mati\tp3\Caceres.Matias.2°C.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Mati\Mati\tp3\Caceres.Matias.2°C.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\carlo\Desktop\Mati\Mati\tp3\Caceres.Matias.2°C.TP3\Excepciones\obj\Debug\Excepciones.pdb

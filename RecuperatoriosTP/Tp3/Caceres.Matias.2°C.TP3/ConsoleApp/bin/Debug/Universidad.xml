@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?><string>---ALUMNOS---
+Legajo: 1
+Nombre y apellido: Juan Lopez
+Nacionalidad: Argentino
+DNI: 12234456
+TOMA CLASE DE Programacion
+Estado de cuenta: Becado
+
+Legajo: 4
+Nombre y apellido: Miguel Hernandez
+Nacionalidad: Extranjero
+DNI: 92264456
+TOMA CLASE DE Legislacion
+Estado de cuenta: AlDia
+
+Legajo: 5
+Nombre y apellido: Carlos Gonzalez
+Nacionalidad: Argentino
+DNI: 12236456
+TOMA CLASE DE Programacion
+Estado de cuenta: AlDia
+
+Legajo: 6
+Nombre y apellido: Juan Perez
+Nacionalidad: Argentino
+DNI: 12234656
+TOMA CLASE DE Laboratorio
+Estado de cuenta: Deudor
+
+Legajo: 7
+Nombre y apellido: Joaquin Suarez
+Nacionalidad: Extranjero
+DNI: 91122456
+TOMA CLASE DE Laboratorio
+Estado de cuenta: AlDia
+
+Legajo: 8
+Nombre y apellido: Rodrigo Smith
+Nacionalidad: Argentino
+DNI: 22236456
+TOMA CLASE DE Legislacion
+Estado de cuenta: AlDia
+
+---PROFESORES---
+Legajo: 1
+Nombre y apellido: Juan Lopez
+Nacionalidad: Argentino
+DNI: 12234456
+CLASES DEL DÍA
+Programacion
+Legislacion
+
+Legajo: 2
+Nombre y apellido: Roberto Juarez
+Nacionalidad: Argentino
+DNI: 32234456
+CLASES DEL DÍA
+Legislacion
+Programacion
+
+---JORNADAS---
+Clase: Programacion
+Legajo: 1
+Nombre y apellido: Juan Lopez
+Nacionalidad: Argentino
+DNI: 12234456
+CLASES DEL DÍA
+Programacion
+Legislacion
+
+Legajo: 1
+Nombre y apellido: Juan Lopez
+Nacionalidad: Argentino
+DNI: 12234456
+TOMA CLASE DE Programacion
+Estado de cuenta: Becado
+
+Legajo: 5
+Nombre y apellido: Carlos Gonzalez
+Nacionalidad: Argentino
+DNI: 12236456
+TOMA CLASE DE Programacion
+Estado de cuenta: AlDia
+
+
+Clase: Legislacion
+Legajo: 1
+Nombre y apellido: Juan Lopez
+Nacionalidad: Argentino
+DNI: 12234456
+CLASES DEL DÍA
+Programacion
+Legislacion
+
+Legajo: 4
+Nombre y apellido: Miguel Hernandez
+Nacionalidad: Extranjero
+DNI: 92264456
+TOMA CLASE DE Legislacion
+Estado de cuenta: AlDia
+
+Legajo: 8
+Nombre y apellido: Rodrigo Smith
+Nacionalidad: Argentino
+DNI: 22236456
+TOMA CLASE DE Legislacion
+Estado de cuenta: AlDia
+
+
+</string>
